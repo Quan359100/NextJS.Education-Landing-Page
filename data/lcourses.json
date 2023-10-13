@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "logo": "course_thumb01.png",
+        "courseTitle": "Devops Cơ Bản",
+        "category": "Devops",
+        "instructor": "Phạm Vũ Tiến",
+        "price": "Paid",
+        "language": "VN",
+        "difficulty": "Basic",
+        "lesson": "12",
+        "time": "20h",
+        "vnd": "free",
+        "content" : "Lớp Học Devops này có thể giúp bạn tiếp cận những kiến thức cơ bản để có thể đủ năng lực tham gia  dự án thật",
+        "authorLogo": "course_author001.png"
+           
+    },
+    {
+        "id": 2,
+        "logo": "course_thumb02.jpg",
+        "courseTitle": "Devops Nâng Cao",
+        "category": "Devops",
+        "instructor": "Phạm Vũ Tiến",
+        "price": "Paid",
+        "language": "VN",
+        "difficulty": "intermediate",
+        "lesson": "30",
+        "time": "60h",
+        "vnd": "8,000,000 vnd",
+        "content" : "Lớp Học Devops này có thể giúp bạn tiếp cận những kiến thức nâng cao",
+        "authorLogo": "course_author001.png"
+
+        
+    },
+    {
+        "id": 3,
+        "logo": "course_thumb03.png",
+        "courseTitle": "Luyện thi AWS Cơ Bản",
+        "category": "Devops",
+        "instructor": "Phạm Vũ Tiến",
+        "price": "Paid",
+        "language": "VN",
+        "difficulty": "Basic",
+        "lesson": "10",
+        "time": "8h",
+        "vnd": "5,000,000 vnd",
+        "content" : "Coming Soon",
+        "authorLogo": "course_author001.png"
+    },
+    {
+        "id": 4,
+        "logo": "course_thumb04.png",
+        "courseTitle": "Luyện thi AWS Nâng Cao",
+        "category": "Devops",
+        "instructor": "Phạm Vũ Tiến",
+        "price": "Paid",
+        "language": "VN",
+        "difficulty": "intermediate",
+        "lesson": "8h",
+        "time": "7h",
+        "vnd": "5,600,000 vnd",
+        "content" : "Coming Soon",
+        "authorLogo": "course_author001.png"
+    },
+    {
+        "id": 5,
+        "logo": "course_thumb05.jpg",
+        "courseTitle": "Reactjs Cơ Bản",
+        "category": "Frontend",
+        "instructor": "Đặng Minh Quân",
+        "price": "Paid",
+        "language": "VN",
+        "difficulty": "Basic",
+        "lesson": "Waiting",
+        "time": "Waiting",
+        "vnd": "Waiting soon",
+        "content" : "Coming Soon",
+        "authorLogo": "course_author002.png"
+    }
+]

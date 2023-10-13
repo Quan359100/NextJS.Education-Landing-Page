@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Đặng Minh Quân",
+        "role": "Front-End",
+        "FacebookUrl": "https://www.facebook.com/dang.quan.7393264",
+        "XUrl": "",
+        "TiktokUrl": "",
+        "YoutubeUrl": "",
+        "LinkendUrL": "",
+        "MailUrL":"allthing3591@gmail.com",
+        "rating":4,
+        "Course":"4",
+        "Bio":"Là 1 senior front-end nhiều kinh nghiệm với đã từng làm cho các công ty lớn ở nhật , Việt Nam và mỹ .",
+        "logo":"mentors02.png",
+        "profilePictures": "instructor03.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Phạm Vũ Tiến",
+        "role": "Devops",
+        "FacebookUrl": "https://www.facebook.com/vutiens",
+        "XUrl": "",
+        "TiktokUrl": "",
+        "YoutubeUrl": "",
+        "LinkendUrL": "",
+        "MailUrL":"allthing3591@gmail.com",
+        "rating":2,
+        "Course":"4",
+        "Bio":"Là 1 Lead Devops nhiều kinh nghiệm với đã từng làm cho các công ty lớn ở nhật , Việt Nam và mỹ",
+        "logo":"mentors01.png",
+        "profilePictures": "instructor02.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Phạm Thịnh",
+        "role": "Back-End",
+        "FacebookUrl": "",
+        "XUrl": "",
+        "TiktokUrl": "",
+        "YoutubeUrl": "",
+        "LinkendUrL": "",
+        "MailUrL":"allthing3591@gmail.com",
+        "rating":3,
+        "Course":"4",
+        "Bio":"Là 1 Senior Back-End nhiều kinh nghiệm với đã từng làm cho các công ty lớn ở nhật , Việt Nam và mỹ",
+        "logo":"mentors03.png",
+        "profilePictures": "instructor02.jpg"
+
+    },
+    {
+        "id": 4,
+        "name": "Dương Việt Dũng",
+        "role": "Project Manager",
+        "FacebookUrl": "",
+        "XUrl": "",
+        "TiktokUrl": "",
+        "YoutubeUrl": "",
+        "LinkendUrL": "",
+        "MailUrL":"allthing3591@gmail.com",
+        "rating":2,
+        "Course":"4",
+        "Bio":"Là 1 PM nhiều kinh nghiệm với đã từng làm cho các công ty lớn ở nhật , Việt Nam và mỹ",
+        "logo":"mentors04.png",
+        "profilePictures": "instructor02.jpg"
+    }
+]

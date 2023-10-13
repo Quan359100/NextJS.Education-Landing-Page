@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "When aeunkno printer took galley of scrambled",
+        "logo": "donate_thumb01.png",
+        "bank": "EDUCATION",
+        "author": "Admin",
+        "date": "25 April 2023",
+        "qr":"donate_logo01.png"
+    },
+    {
+        "id": 2,
+        "title": "Full Stack GraphQL With Next.js And Vercel",
+        "logo": "donate_thumb02.jpg",
+        "category": "COURSE",
+        "author": "Admin",
+        "date": "25 April 2023",
+        "qr": "donate_logo01.png"
+    }
+]
