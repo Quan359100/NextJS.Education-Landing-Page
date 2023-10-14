@@ -19,7 +19,7 @@ export default function MobileMenu() {
                     <Link href="/faq">Tư Vấn</Link>
                 </li>
                 <li className="menu-item-has-children">
-                    <Link href="/blog-grid">Donate</Link>
+                    <Link href="/donate-page">Donate</Link>
                 </li>
                 <li className="menu-item-has-children">
                     <Link href="/about-us">Về Chúng Tôi</Link>
