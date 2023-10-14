@@ -66,7 +66,7 @@ export default function Footer1() {
                         <div className="row">
                             <div className="col-lg-8">
                                 <div className="copyright__text">
-                                    <p>Copyright © {new Date().getFullYear()} eduvalt. All rights reserved.</p>
+                                    <p>Copyright © {new Date().getFullYear()} Quan35900. All rights reserved.</p>
                                 </div>
                             </div>
                             <div className="col-lg-4">
