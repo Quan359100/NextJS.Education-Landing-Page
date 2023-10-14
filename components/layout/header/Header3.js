@@ -65,7 +65,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu }) {
                                                 <li><Link href="/courses">Khoá Học</Link></li>
                                                 <li><Link href="/events">Event</Link></li>
                                                 <li><Link href="/faq">Tư Vấn</Link></li>
-                                                <li><Link href="/blog-grid">Donate</Link></li>
+                                                <li><Link href="/donate-page">Donate</Link></li>
                                                 <li><Link href="/about-us">Về Chúng Tôi</Link></li>    
                                             </ul>
                                         </div>
