@@ -69,12 +69,6 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                         <div className="tgmobile__menu-outer">
                                             <MobileMenu />
                                         </div>
-                                        <div className="tgmenu__action">
-                                            <ul className="list-wrap">
-                                                <li className="header-btn login-btn"><Link href="#" className="btn">Log in</Link></li>
-                                                <li className="header-btn"><Link href="#" className="btn">Try For Free</Link></li>
-                                            </ul>
-                                        </div>
                                         <div className="social-links">
                                             <ul className="list-wrap">
                                                 <li><Link href="#"><i className="fab fa-facebook-f" /></Link></li>
